@@ -1,4 +1,4 @@
-package io.getstarted.spring.jkubeapp;
+package io.github.andylke.jkubeapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
